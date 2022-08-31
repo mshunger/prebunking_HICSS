@@ -11,18 +11,18 @@ Please cite the following paper if you are using this model or data:
 ```
 @inproceedings{klapproth_2023_immunize,
   author       = {Klapproth, Johanna and 
-	  Unger, Saïd and 
-	  Pohl, Janina and 
-	  Boberg, Svenja and 
-	  Grimme, Christian and 
-	  Quandt, Thorsten},
+	  			Unger, Saïd and 
+	  		  	Pohl, Janina and 
+	  		  	Boberg, Svenja and 
+	  		  	Grimme, Christian and 
+	  		  	Quandt, Thorsten},
   title        = {{Immunize the Public against Disinformation Campaigns: Developing a Framework for Analyzing the Macrosocial Effects of Prebunking Interventions}},
   year         = {2023},
-  booktitle	= {{Proceedings of the 56$^{th}$ Hawaii International Conference on System Sciences}},
-  series	= {HICSS},
+  booktitle = {{Proceedings of the 56$^{th}$ Hawaii International Conference on System Sciences}},
+  series = {HICSS},
   address      = {Maui, HI, USA}, 
   publisher    = {ScholarSpace},
-  numpages	= {10}
+  numpages = {10}
 } 
 ```
 
