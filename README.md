@@ -1,6 +1,6 @@
 # Immunize the Public against Disinformation Campaigns
 
-This is our official GitHub-Repository for the publication *Immunize the Public against Disinformation Campaigns: Developing a Framework for Analyzing the Macrosocial Effects of Prebunking Interventions*. 
+This is our official GitHub-Repository for the publication [*Immunize the Public against Disinformation Campaigns: Developing a Framework for Analyzing the Macrosocial Effects of Prebunking Interventions*](https://scholarspace.manoa.hawaii.edu/items/c26f766b-53c0-4841-af38-c24c9fb2a741). 
 
 In the **notebook** folder, you can find a minimal working example of our model inside a Jupyter Notebook. Please refer to the comments inside the code to understand how to use the model and recreate our experiments. In the `env.yml` and `setup.py` you can find all dependencies required to run the model. 
  
